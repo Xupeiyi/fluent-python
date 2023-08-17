@@ -1,0 +1,2 @@
+ A daemon thread will shut down immediately when the program exits. 
+ If a program is running Threads that are not daemons, then the program will wait for those threads to complete before it terminates. 
